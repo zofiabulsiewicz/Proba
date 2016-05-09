@@ -1,1 +1,2 @@
-drugi dokument
+drugi dokument tekstowy
+dodana linijka
